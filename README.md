@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/7lVYny3-POcAAAAC/kaneki.gif"  />
 
 ###
 
@@ -33,7 +33,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/sixxkr/sixxkr/output/snake.svg" alt="Snake animation" />
 
 ###
