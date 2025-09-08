@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Karsten Errando Winoto AKA sixxkr and I'm a Data Scientist and Data Analyst, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Karsten Errando Winoto and I'm a Data Scientist and Data Analyst, from Indonesia</h2>
 
 ###
 
